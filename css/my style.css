@@ -1,0 +1,158 @@
+.navtop{
+	background-color:gainsboro;
+	padding: 5px;
+}
+.navtop p {
+	text-transform: capitalize;
+	font-size: 20px;
+	margin-top: 5px;
+	color: black;
+	
+}
+.btnlog{
+background-color:black;
+text-align: center;
+	font-size: 15px;
+	width:80px;
+	height: 40px;
+	color: white;
+	text-transform: capitalize;
+	line-height: 40px;
+	border-radius: 10px;
+	cursor: pointer;
+	float: right;
+	margin-top: 3px;
+}
+.btnlog:hover{
+	background-color: green;
+}
+
+.backg{
+	background-image: url("../photo/laptop_room_on_the_desk_keyboard_mouse_apple_window_interior_73963_1920x1080.jpg");
+	background-size: cover;
+	background-position: center;
+    width: 100%;
+	height: 600px;
+}
+
+
+.headertext{
+	color: white;	
+}
+
+.col-sm-6 input{
+	
+	width:100%;
+	height: 40px;
+	line-height: 40px;
+	padding: 5px;
+	text-transform: capitalize;
+	border-radius: 5px;
+}
+
+.col-sm-2 #button{
+	width:100px;
+	height: auto;
+	line-height: 40px;
+	border-radius: 5px;
+	background-color: white;
+	cursor: pointer;
+	text-align: center;
+	font-size: 20px;
+	text-transform: capitalize;
+	
+}
+
+.col-sm-2 #button:hover{
+	background-color: green;
+	color: white;
+}
+
+
+.featuer{
+	background-color: rgba(219,219,219,1.00);
+	padding: 50px
+}
+
+.fa-desktop{
+	padding: 10px 40px 10px 40px;
+	font-size: 60px;
+}
+
+.fa-check-circle{
+	padding: 10px 40px 10px 40px;
+	font-size: 60px;
+}
+
+
+.fa-file-code{
+	padding: 10px 40px 10px 40px;
+	font-size: 60px;
+}
+
+.bgphone{
+	background-image: url("../photo/pexels-photo-346736.jpeg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: auto;
+	width: 100%;
+	
+}
+.bgphone h2{
+	
+color: white;
+text-transform: capitalize;
+font-size: 70px;
+font-weight: 100	
+}
+
+.spacetext{
+	padding-top: 100px;
+}
+
+.btnstart{
+
+text-align: center;
+	font-size: 15px;
+	width:200px;
+	height: 40px;
+	color: white;
+	text-transform: capitalize;
+	line-height: 40px;
+	border-radius: 30px;
+	border:solid white 1px;
+	cursor: pointer;
+    margin-top: 30px;
+	margin-bottom: 100px;
+}
+
+.btnstart:hover{
+	background-color: green;
+}
+
+.navbottom{
+	background-color: rgba(47,47,47,1.00);
+	height: auto;
+	padding: 10px;
+}
+
+.navbottom p{
+	text-align: center;
+	color: rgba(139,137,137,1.00);
+	margin-top: 20px;
+}
+
+
+.form12 input{
+	float: right;
+	clear: both;
+	margin-bottom: 5px;
+	border: solid 1px gray;
+	text-transform: capitalize;
+	width: 50%;
+	text-indent: 5px;
+	display:none;
+}
+
+
